@@ -8,4 +8,8 @@ public sealed class ChatHub: Hub
     {
         await Clients.All.SendAsync("ReceiveMessage", $"{Context.ConnectionId} has joined");
     }
+    public async Task SendMessage(string content)
+    {
+        await Clients.All.SendAsync("ReceiveMessage", content);
+    }
 }
