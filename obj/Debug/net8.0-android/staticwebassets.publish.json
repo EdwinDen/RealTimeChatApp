@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/odiNfpER8wAjAV8N3Ve32UU1Clo41rsBdso6b5Vk80=",
+  "Hash": "oWOLKZDrInMOS1hM8uojJcslezK20OCim9WgJkCt+VE=",
   "Source": "RealTimeChatApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "RealTimeChatApp\\wwwroot",
       "Source": "RealTimeChatApp",
-      "ContentRoot": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\RealTimeChatApp.styles.css",
+      "Identity": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\RealTimeChatApp.styles.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "RealTimeChatApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\RealTimeChatApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\RealTimeChatApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css",
+      "Identity": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "RealTimeChatApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\RealTimeChatApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\wwwroot\\css\\app.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\wwwroot\\favicon.png",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\wwwroot\\index.html",
       "SourceId": "RealTimeChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\EDWIN DEN\\Desktop\\RealTimeChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\EDWIN DEN\\Documents\\GitHub\\RealTimeChatApp\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",
